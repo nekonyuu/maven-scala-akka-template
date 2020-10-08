@@ -1,8 +1,8 @@
-# Kafka Stream & Akka HTTP template project
+# Akka Stream & Akka HTTP template project
 
 ## Purpose
 
-Use this template to bootstrap a Scala project with Maven, Akka & Kafka Stream.
+Use this template to bootstrap a Scala project with Maven & Akka.
 
 ## How to
 
@@ -10,4 +10,4 @@ Fork this & import this into your IDE, update artifactId in pom.xml then you're 
 
 ## Run
 
-Go in org.esgi.project, then right-click on Main & run it.
+Open Main.scala, then right-click on Main & run it.
